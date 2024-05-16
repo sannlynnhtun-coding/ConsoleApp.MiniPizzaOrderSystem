@@ -1,4 +1,4 @@
-### MiniPizzaOrderSystem - Domain Logic
+# Mini Pizza Order System
 
 #### Overview
 This C# console application simulates a pizza ordering system, allowing users to place and manage pizza orders. The domain logic handles various aspects such as order creation, menu management, and order processing.
